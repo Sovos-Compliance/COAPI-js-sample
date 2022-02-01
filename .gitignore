@@ -3,3 +3,4 @@
 .vscode
 /sbds/*
 .env
+/xmlUploads
